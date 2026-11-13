@@ -13,7 +13,6 @@
 ### Senior Cyber Security Engineer • Red Team Operator • Adversarial AI Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhidur-rahman-0b3218381/)
-
 [![Portfolio](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge)](https://www.linkedin.com/in/tawhidur-rahman-0b3218381/)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge)](https://maps.google.com)
 
@@ -34,6 +33,7 @@
 Lead Penetration Tester and Security Researcher with verified critical findings (**CVSS 9.8**) across enterprise telecom gateways, banking integration pipelines, and academic infrastructures. Proven experience heading security engineering operations, conducting full-scope red teaming, architecting real-time SIEM/IDS platforms, and developing adversarial AI research on Apple Silicon.
 
 - 🏆 **1st Place Champion**: Department of Software Engineering (DIU) AI Project Showcase with **ThreatVision**.
+- 🏛️ **Architect & Creator**: **Publish with DIU** — Flagship 5-Signal ForensicEngine for AI content detection & journal management.
 - 🛡️ **National Telecom Pentest Lead**: Identified negative-amount bypasses & critical flaws across bKash, Nagad, Rocket & SSL-Commerz integrations.
 - 🎖️ Former **Head of Cyber Security Architecture & Admin** at **BOTbari**.
 - 🔬 **Published Thesis**: *"T-WORM: Advanced Offensive Large Language Models — Engineering Uncensored Neural Primitives on Apple Silicon"* (Jan 2026).
@@ -85,6 +85,21 @@ flowchart LR
 ![Apple MLX](https://img.shields.io/badge/Apple%20MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+
+---
+
+## 🏛️ Flagship Innovation: Publish with DIU
+
+<div align="center">
+
+### 🏛️ [Publish with DIU — Academic Integrity & ForensicEngine Platform](https://github.com/robat699-cmyk/Publish-with-DIU)
+**Enterprise Journal Management • 5-Signal AI Content Detection • Anti-Plagiarism Infrastructure**
+
+*Engineered to eliminate reliance on proprietary commercial scanning tools through deep semantic linguistic analysis, 70+ OAuth2/JWT secured endpoints, and automated blind peer-review pipelines.*
+
+`Python` • `Flask` • `React` • `TypeScript` • `SQLAlchemy` • `ForensicEngine` • `OAuth2`
+
+</div>
 
 ---
 
